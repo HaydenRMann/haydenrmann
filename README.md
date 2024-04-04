@@ -10,11 +10,8 @@
   - <b> Queues, Stacks, Linked Lists, Maps, Sets, Collections, Dynamic Arrays </b> <br />
   - <b> Sorting, Rercusion, Conditionals, Iteration</b>
 
-
-
 <h2> 💻 Projects:</h2>
+  - <b><a href="https://www.linkedin.com/in/hayden-mann-168081220/">SudokuSolver</a></b>
 
-- <b>Sudoku Solver</b>
-  - test
 
 <h2><a href="https://www.linkedin.com/in/hayden-mann-168081220/">LinkedIn</a><img align="left" alt="HaydenRMann | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"</h2>

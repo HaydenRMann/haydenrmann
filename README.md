@@ -5,11 +5,9 @@
 - <b>Sudoku Solver</b>
   - test
 
-<h2> 🔗 LinkedIn:</h2>
+<h2><a href="https://www.linkedin.com/in/hayden-mann-168081220/">LinkedIn</a><img align="left" alt="HaydenRMann | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/hayden-mann-168081220/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
